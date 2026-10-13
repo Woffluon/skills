@@ -39,7 +39,9 @@ Open a **new** agent session, then type `/awwwards` or just ask for a website.
 
 ## Demo
 
-https://github.com/user-attachments/assets/0ac28c25-9796-4bce-8fa6-4dcc6df55b8b
+[![Watch the demo on YouTube](https://img.youtube.com/vi/BEcQoDs16IE/maxresdefault.jpg)](https://youtu.be/BEcQoDs16IE)
+
+Click on the thumbnail to watch the demo on YouTube
 
 ## Install
 
